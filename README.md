@@ -2,7 +2,7 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2404.<arxiv-id>-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2404.<arxiv-id>)
 [![PDF](https://img.shields.io/badge/Latest%20PDF-download-orange?logo=readthedocs)](https://github.com/junbolian/Generative_Foundation_Models/releases/download/<pdf-release-tag>/handbook.pdf)
-[![Stars](https://img.shields.io/github/stars/<user>/generative-foundation-models?style=social)](https://github.com/junbolian/Generative_Foundation_Models/stargazers)
+[![Stars](https://img.shields.io/github/stars/junbolian/Generative_Foundation_Models?style=social)](https://github.com/junbolian/Generative_Foundation_Models/stargazers)
 
 Welcome to the official repository for **“Generative Foundation Models – A Comprehensive Beginner’s Handbook.”**  
 This handbook distills the theory _and_ practice behind the most influential generative model families released in the last five years—Transformers, Diffusion models, latent-space approaches, and recent linear-time SSMs such as **Mamba** and **Retentive Networks**.
