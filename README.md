@@ -42,6 +42,7 @@ This handbook distills the theory _and_ practice behind the most influential gen
   archivePrefix = {arXiv},
   primaryClass  = {cs.CV}
 }
+```
 
 ## Quick Start
 
