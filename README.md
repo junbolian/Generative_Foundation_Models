@@ -1,7 +1,6 @@
 # Generative Foundation Models : A Comprehensive Beginner’s Handbook 📚✨
 
 [![arXiv](https://img.shields.io/badge/arXiv-2404.<arxiv-id>-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2404.<arxiv-id>)
-[![PDF](https://img.shields.io/badge/Latest%20PDF-download-orange?logo=readthedocs)](https://github.com/junbolian/Generative_Foundation_Models/releases/download/v1.0.0/handbook.pdf)
 [![Stars](https://img.shields.io/github/stars/junbolian/Generative_Foundation_Models?style=social)](https://github.com/junbolian/Generative_Foundation_Models/stargazers)
 
 Welcome to the official repository for **“Generative Foundation Models – A Comprehensive Beginner’s Handbook.”**  
@@ -31,6 +30,18 @@ This handbook distills the theory _and_ practice behind the most influential gen
 |11 | **Conclusions & Outlook** | Research frontiers, open problems |
 
 ---
+
+
+## Cite it!
+```bibtex
+@misc{lian2025generative,
+  title  = {Generative Foundation Models - A Comprehensive Beginner’s Handbook},
+  author = {Junbo Jacob Lian},
+  year   = {2025},
+  eprint = {2504.12345},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.CV}
+}
 
 ## Quick Start
 
