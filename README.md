@@ -35,12 +35,13 @@ This handbook distills the theory _and_ practice behind the most influential gen
 ## Cite it!
 ```bibtex
 @misc{lian2025generative,
-  title  = {Generative Foundation Models - A Comprehensive Beginner’s Handbook},
-  author = {Junbo Jacob Lian},
-  year   = {2025},
-  eprint = {2504.12345},
-  archivePrefix = {arXiv},
-  primaryClass  = {cs.CV}
+  author       = {Lian, Junbo Jacob},
+  title        = {Generative Foundation Models: A Comprehensive Beginner’s Handbook},
+  year         = {2025},
+  month        = {April},
+  note         = {Available at SSRN: \url{https://ssrn.com/abstract=5259947} or \url{http://dx.doi.org/10.2139/ssrn.5259947}},
+  howpublished = {SSRN},
+  url          = {https://ssrn.com/abstract=5259947},
 }
 ```
 
