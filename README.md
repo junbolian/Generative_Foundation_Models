@@ -32,6 +32,7 @@ This handbook distills the theory _and_ practice behind the most influential gen
 
 
 ## Cite it!
+Lian, J. J. (2025). Generative foundation models: A comprehensive beginner’s handbook. SSRN. http://dx.doi.org/10.2139/ssrn.5259947
 ```bibtex
 @misc{lian2025generative,
   author       = {Junbo Jacob Lian},
