@@ -44,19 +44,3 @@ Lian, J. J. (2025). Generative foundation models: A comprehensive beginner’s h
   url          = {https://ssrn.com/abstract=5259947},
 }
 ```
-
-## Quick Start
-
-```bash
-# 1 Clone
-git clone https://github.com/<user>/generative-foundation-models.git
-cd generative-foundation-models
-
-# 2 Browse the handbook (LaTeX sources)
-code .
-
-# 3 Compile (requires LaTeX + make)
-make pdf
-
-# 4 Enjoy the latest PDF
-open dist/Generative_Foundation_Models.pdf
